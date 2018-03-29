@@ -1,3 +1,8 @@
+*   Fix check for minimum Ruby version to correctly identify Ruby 2.2.10.
+
+    *shia*
+
+
 ## Rails 5.1.5 (February 14, 2018) ##
 
 *   Gemfile for new apps: upgrade redis-rb from ~> 3.0 to 4.0.
