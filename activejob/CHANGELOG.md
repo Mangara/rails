@@ -1,3 +1,7 @@
+*   Allow queue adapters to provide a custom name by implementing `queue_adapter_name`
+
+    *Sander Verdonschot*
+
 *   Add `perform_all_later` to enqueue multiple jobs at once
 
     This adds the ability to bulk enqueue jobs, without running callbacks, by
